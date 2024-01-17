@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124393573247",
+    "project_id": "expo-prebuilds",
+    "storage_bucket": "expo-prebuilds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124393573247:android:7e0d4f2ff0c802d144284a",
+        "android_client_info": {
+          "package_name": "com.gabrielgautron.expoprebuilds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl44hRtJTjO-d1GOxY-or3jaVYEv6owKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
